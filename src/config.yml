@@ -1,5 +1,5 @@
 # Base config
-baseURL: "https://examplesite.com/"
+baseURL: "https://http://cptsandblaster.github.io/azdo-blog"
 title: Pipeline tricks
 paginate: 5
 
