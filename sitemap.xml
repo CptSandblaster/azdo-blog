@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/use-periods-in-parameter-names/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/posts/use-periods-in-parameter-names/</loc>
     <lastmod>2020-12-20T21:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/</loc>
     <lastmod>2020-12-20T21:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/posts/</loc>
     <lastmod>2020-12-20T21:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/format-as-comma-string/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/posts/format-as-comma-string/</loc>
     <lastmod>2020-12-20T21:00:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/parameters/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/tags/parameters/</loc>
     <lastmod>2020-12-20T21:00:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/tags/</loc>
     <lastmod>2020-12-20T21:00:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/initialized/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/posts/initialized/</loc>
     <lastmod>2020-12-20T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://http://cptsandblaster.github.io/azdo-blog/categories/</loc>
   </url>
 </urlset>

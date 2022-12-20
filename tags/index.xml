@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Pipeline tricks</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://http://cptsandblaster.github.io/azdo-blog/tags/</link>
     <description>Recent content in Tags on Pipeline tricks</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://http:/cptsandblaster.github.io/azdo-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://http:/cptsandblaster.github.io/azdo-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Dec 2020 21:00:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Dec 2020 21:00:03 +0000</lastBuildDate><atom:link href="https://http://cptsandblaster.github.io/azdo-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>parameters</title>
-      <link>https://examplesite.com/tags/parameters/</link>
+      <link>https://http://cptsandblaster.github.io/azdo-blog/tags/parameters/</link>
       <pubDate>Sun, 20 Dec 2020 21:00:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/parameters/</guid>
+      <guid>https://http://cptsandblaster.github.io/azdo-blog/tags/parameters/</guid>
       <description></description>
     </item>
     
